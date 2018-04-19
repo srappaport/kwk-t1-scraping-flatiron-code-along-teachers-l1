@@ -5,3 +5,5 @@ tags:
 languages: 
   - Ruby
 resources: 0
+
+parent_template: git@github.com:learn-co-curriculum/scraping-flatiron-code-along.git

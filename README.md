@@ -435,6 +435,4 @@ end
 Scraper.new.print_courses
 ```
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/scraping-flatiron-code-along' title='Object Oriented Scraping'>Object Oriented Scraping</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/scraping-flatiron-code-along'>Scraping Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-T1 Object Oriented Scraping</p>
